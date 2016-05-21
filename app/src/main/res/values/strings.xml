@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">DC Geotrigger</string>
+  <string name="GCMSenderID">asd</string>
+  <string name="ProjectNumber">asd</string>
+  <string name="ArcGISClientID">asd</string>
+  <string name="whatIsThisApp">This app seeks to be your noninvasive tour guide to Washington D.C.  As you visit National monuments
+  and places around the city, this app will notify you of interesting information with where you are standing.  So please, go explore
+   and discover one the nations most valuable places.  For a suggested starting location, we recommend the White House.  We currently have places of interest in Bethesda
+   and in the National Mall.</string>
+</resources>
